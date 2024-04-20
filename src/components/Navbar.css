@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  align-items: left;
+  border: 1px solid;
+  border-color: darkgray;
+  margin-bottom: 1rem;
+}
+
+.icon {
+  font-size: 2rem;
+  color: #000000;
+  top: 0;
+  left: 0;
+  margin: auto 0;
+}
+
+.purple {
+  color: #6900ff;
+}
